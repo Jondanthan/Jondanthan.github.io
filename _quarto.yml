@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Hello DSCI 521: smile or you're doing it wrong"
+  title: "Welcome to Jonathan's website. Take a look around, there's not much to see."
   navbar:
     left:
       - href: index.qmd
